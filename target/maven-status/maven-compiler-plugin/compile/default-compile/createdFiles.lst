@@ -1,0 +1,14 @@
+testing\IOTest.class
+comunicationOutput\OutPut.class
+player\IGeneralMessagingBetweenObjects.class
+message\Message.class
+comunicationInput\ComunicationUI.class
+comunicationInput\FactoryCommunicationType.class
+testing\IOTestRule$1.class
+comunicationInput\CommunicationWithFile.class
+message\MessageStatus.class
+MainClass.class
+InititClass.class
+testing\IOTestClass.class
+player\Player.class
+testing\IOTestRule.class
